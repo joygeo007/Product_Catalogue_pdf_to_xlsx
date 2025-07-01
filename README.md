@@ -21,7 +21,7 @@ To get this Streamlit application up and running on your local machine, follow t
 First, clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/joygeo007/Product_Catalogue_pdf_to_xlsx
 cd pdf_to_xlsx
 ```
 
