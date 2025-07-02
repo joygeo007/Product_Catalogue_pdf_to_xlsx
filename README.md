@@ -45,13 +45,13 @@ Install the required Python packages using pip:
 pip install -r requirements.txt
 ```
 
-[cite\_start]The `requirements.txt` file specifies the necessary libraries[cite: 1]:
+The `requirements.txt` file specifies the necessary libraries:
 
-  * [cite\_start]`pymupdf` [cite: 1]
-  * [cite\_start]`openai` [cite: 1]
-  * [cite\_start]`pydantic` [cite: 1]
-  * [cite\_start]`xlsxwriter` [cite: 1]
-  * [cite\_start]`google.generativeai` [cite: 1]
+  * `pymupdf`
+  * `openai`
+  * `pydantic`
+  * `xlsxwriter`
+  * `google.generativeai`
 
 ### 4\. Configure API Keys
 
